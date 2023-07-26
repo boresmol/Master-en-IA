@@ -4,7 +4,7 @@
 
 ## Acerca del Repositorio
 
-En este repositorio encontrarás un compendio de las emocionantes y desafiantes actividades prácticas que he realizado a lo largo de mi máster en Inteligencia Artificial. Aquí, podrás explorar y sumergirte en el mundo de la IA, viendo cómo he aplicado los conocimientos adquiridos en cada asignatura.
+En este repositorio encontrarás un compendio de las actividades prácticas que he realizado a lo largo de mi máster en Inteligencia Artificial. Aquí, podrás explorar y sumergirte en el mundo de la IA, viendo cómo he aplicado los conocimientos adquiridos en cada asignatura.
 
 ## Asignaturas 
 
@@ -20,7 +20,7 @@ En este repositorio encontrarás un compendio de las emocionantes y desafiantes 
 
 - **IA Industrial:** Explora cómo la Inteligencia Artificial está revolucionando la industria, optimizando procesos y mejorando la productividad.
 
-- **Trabajo de Fin de Máster (TFM):** Admira el resultado de mi esfuerzo y aprendizaje a lo largo del máster, materializado en un proyecto final que integra y aplica diversos conceptos de Inteligencia Artificial.
+- **Trabajo de Fin de Máster (TFM):** Revisa el resultado de mi esfuerzo y aprendizaje a lo largo del máster, materializado en un proyecto final que integra y aplica diversos conceptos de Inteligencia Artificial.
 
 ## Objetivo
 
